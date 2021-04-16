@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession.Tests\\PairSession.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession.Tests\\PairSession.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession.Tests\\PairSession.Tests.csproj",
+        "projectName": "PairSession.Tests",
+        "projectPath": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession.Tests\\PairSession.Tests.csproj",
+        "packagesPath": "C:\\Users\\delman.chinchilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delman.chinchilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://devopsserver/DefaultCollection/_packaging/alg-nuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession\\PairSession.csproj": {
+                "projectPath": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession\\PairSession.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession\\PairSession.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession\\PairSession.csproj",
+        "projectName": "PairSession",
+        "projectPath": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession\\PairSession.csproj",
+        "packagesPath": "C:\\Users\\delman.chinchilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\delman.chinchilla\\Documents\\JavaScript-Delman\\PairSession.Delman\\PairSession.Delman\\PairSession\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delman.chinchilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://devopsserver/DefaultCollection/_packaging/alg-nuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

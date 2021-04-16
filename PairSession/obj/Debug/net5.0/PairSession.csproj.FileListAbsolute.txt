@@ -1,0 +1,12 @@
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\bin\Debug\net5.0\PairSession.deps.json
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\bin\Debug\net5.0\PairSession.dll
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\bin\Debug\net5.0\ref\PairSession.dll
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\bin\Debug\net5.0\PairSession.pdb
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.csprojAssemblyReference.cache
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.AssemblyInfoInputs.cache
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.AssemblyInfo.cs
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.csproj.CoreCompileInputs.cache
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.dll
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\ref\PairSession.dll
+C:\Users\delman.chinchilla\Documents\JavaScript-Delman\PairSession.Delman\PairSession.Delman\PairSession\obj\Debug\net5.0\PairSession.pdb
