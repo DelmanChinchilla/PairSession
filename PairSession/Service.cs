@@ -4,23 +4,23 @@ namespace PairSession
 {
     public class Service
     {
-         public static bool isAnEvenNumber(int number)
+         public static int Sum(string number = "")
          {
-             if(number%2 == 0){
-                 return true;
-             }
+              if(String.IsNullOrEmpty(number)) return 0;
+              int sum=0;
 
-             return false;
+              // case 2
+              if(number.Length == 1) return int.Parse(number);
 
-         }
-
-         public static bool isPositiveResult(int number1, int number2){
+              string twoNumbers=number.Substring(1,2);
+              string[] numbers = twoNumbers.Split(',');
+                Console.WriteLine(twoNumbers);
+              foreach(var a in numbers ){
+                   sum +=int.Parse(a); 
+                   // debug
+              } 
               
-              if(number1 - number2>0){
-                  return true;
-              }
-              return false;
-
+             return sum;
          }
     }
 }
